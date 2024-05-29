@@ -1,0 +1,33 @@
+Code base: https://github.com/jolbol1/nextjs-velite-blog-template
+
+
+npx velite
+
+
+og image playground:
+https://og-playground.vercel.app/
+
+
+YouTube - 
+https://www.youtube.com/watch?v=tSI98g3PDyE
+
+
+Illustrations - https://storyset.com/search?q=programmer
+
+
+
+https://buttercms.com/
+
+
+https://vercel.com/new/singamsettys-projects
+
+
+
+git remote add origin git@github.com:MahendraSv/mahendra.git
+git branch -M main
+git push -u origin main
+
+
+
+https://github.com/Openbracket-in/interviewquestions
+
