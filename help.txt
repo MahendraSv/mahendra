@@ -12,7 +12,9 @@ YouTube -
 https://www.youtube.com/watch?v=tSI98g3PDyE
 
 
-Illustrations - https://storyset.com/search?q=programmer
+Illustrations - 
+https://storyset.com/search?q=programmer
+https://undraw.co/
 
 
 
@@ -31,3 +33,15 @@ git push -u origin main
 
 https://github.com/Openbracket-in/interviewquestions
 
+-------------------
+deployments:
+
+https://vercel.com/new/singamsettys-projects
+https://vercel.com/singamsettys-projects/mahendra/deployments
+
+
+-------------------
+
+for Sie Content:
+==================
+https://peterkellner.net

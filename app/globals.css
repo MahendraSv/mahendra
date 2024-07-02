@@ -97,7 +97,7 @@
 
   .about-me {
     color: #D07D00;
-    padding: 10px 0px;
+    padding: 10px 0;
     font-weight: bold;
   }
 
@@ -112,13 +112,13 @@
   .sblog-4 {
     border-right: 4px solid #009D2C;
   }
-  
+
   .contact-div {
     border-left: 8px solid #0E00B2;
   }
 
   .row-div {
-    padding: 1rem .5rem .5rem 0rem;
+    padding: 1rem .5rem .5rem 0;
     display: flex;
     column-gap: 0.7rem;
   }
